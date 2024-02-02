@@ -1,0 +1,2 @@
+python-telegram-bot[fast]==20.3
+anonfile==1.0.4
